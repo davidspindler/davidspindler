@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidspindler
+- 👋 Hi, I’m @davidspindler, a Front End Software Engineer.
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning the steps to become a full stack developer.
-- 💞️ I’m looking to collaborate on web development or other opportunities to gain more programming experience.
+- 💞️ I’m looking to collaborate on web development or other opportunities to gain more experience.
 - 📫 How to reach me ...
 email: dspindler@westmont.edu
 <!---
