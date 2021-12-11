@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidspindler, a Front End Software Engineer.
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning the steps to become a full stack developer.
+- 🌱 View my website at https://davidspindler.online/.
 - 💞️ I’m looking to collaborate on web development or other opportunities to gain more experience.
 - 📫 How to reach me ...
 email: dspin75@gmail.com
